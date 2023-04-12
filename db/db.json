@@ -17,5 +17,10 @@
         "title": "test",
         "text": "test",
         "note_id": "6e7f8afb-5d80-4299-858d-2d9fe1310c94"
+    },
+    {
+        "title": "list a and b",
+        "text": "list \nitem a\nitem b",
+        "note_id": "dd1f52f1-4cac-4601-920d-674a77086a96"
     }
 ]

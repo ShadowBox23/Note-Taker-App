@@ -14,7 +14,7 @@
   Once you have cloned the repo to your local machine and have all of the necessary technologies installed. In the terminal run npm install and then run node server this will open a local server that you can access via whatever browser you use. When you are done make sure to hit control + c in the terminal to end that server so that it doesn't just keep going.
 
   ## Usage
-  Visit: 
+  Visit: https://www.youtube.com/watch?v=OiRM_ZNZwvw
   Click "Get started" 
   Enter text in note title and note text spots and when your done hit the save button in the top right corner also you can create a new note with the plus sign in the right hand corner as well.
 

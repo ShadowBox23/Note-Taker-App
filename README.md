@@ -15,7 +15,9 @@
 
   ## Usage
   Visit: https://www.youtube.com/watch?v=OiRM_ZNZwvw
+  
   Click "Get started" 
+  
   Enter text in note title and note text spots and when your done hit the save button in the top right corner also you can create a new note with the plus sign in the right hand corner as well.
 
   ## License
